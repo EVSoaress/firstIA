@@ -7,7 +7,7 @@ def func(*args, **kwargs):
     if idade is not None:
         print(idade)
     else:
-        print('Idade não existe')
+        print('Idade não existe!!!!')
 
     print(nome)
 
